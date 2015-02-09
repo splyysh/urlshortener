@@ -2,7 +2,6 @@
 #Doesn't save the shortened urls so it will lose them on service shutdown
 #Shortened urls use only 0-9,A-Z,a-z ASCII characters
 #
-#to shorten urls POST to \shorten with url as 
 #Created by Miki Tolonen, splyysh@IRCnet
 
 import http.server as BaseHTTPServer
